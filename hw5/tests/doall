@@ -1,0 +1,10 @@
+do tests/do1
+adtr
+do tests/do2
+adtr
+do tests/do3
+adtr
+do tests/do4
+adtr
+do tests/do5
+q -f

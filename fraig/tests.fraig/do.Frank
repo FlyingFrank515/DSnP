@@ -1,0 +1,1959 @@
+cirr opt01.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr opt02.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr opt03.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr opt04.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr opt05.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr opt06.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr opt07.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash01.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash02.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash03.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash04.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash05.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash06.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash07.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash08.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash09.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash10.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr test1.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr test2.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+ciropt
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+
+cirr opt01.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirp -po
+cirp -net
+cirp -fl
+cirr opt02.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr opt03.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr opt04.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr opt05.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr opt06.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr opt07.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash01.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash02.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash03.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash04.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash05.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash06.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash07.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash08.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash09.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr strash10.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr test1.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirr test2.aag -re
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+cirstr
+usage
+
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -net
+cirp -fl
+
+cirr sim01.aag -r
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -n
+cirp -fl
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirstrash
+usage
+cirsw
+cirp
+usage
+cirsim -f pattern.01
+usage
+cirp -fec
+usage
+
+cirp
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirp -n
+cirp -fl
+cirp -fec
+usage
+cirr sim02.aag -r
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -n
+cirp -fl
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirstrash
+usage
+cirsw
+cirp
+usage
+cirsim -f pattern.02
+usage
+cirp -fec
+usage
+
+cirp
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirp -n
+cirp -fl
+cirp -fec
+usage
+cirr sim03.aag -r
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -n
+cirp -fl
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirstrash
+usage
+cirsw
+cirp
+usage
+cirsim -f pattern.03
+usage
+cirp -fec
+usage
+
+cirp
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirp -n
+cirp -fl
+cirp -fec
+usage
+cirr sim04.aag -r
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -n
+cirp -fl
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirstrash
+usage
+cirsw
+cirp
+usage
+cirsim -f pattern.04
+usage
+cirp -fec
+usage
+
+cirp
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirp -n
+cirp -fl
+cirp -fec
+usage
+cirr sim05.aag -r
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -n
+cirp -fl
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirstrash
+usage
+cirsw
+cirp
+usage
+cirsim -f pattern.05
+usage
+cirp -fec
+usage
+
+cirp
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirp -n
+cirp -fl
+cirp -fec
+usage
+cirr sim06.aag -r
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -n
+cirp -fl
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirstrash
+usage
+cirsw
+cirp
+usage
+cirsim -f pattern.06
+usage
+cirp -fec
+usage
+
+cirp
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirp -n
+cirp -fl
+cirp -fec
+usage
+cirr sim07.aag -r
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -n
+cirp -fl
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirstrash
+usage
+cirsw
+cirp
+usage
+cirsim -f pattern.07
+usage
+cirp -fec
+usage
+
+cirp
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirp -n
+cirp -fl
+cirp -fec
+usage
+cirr sim08.aag -r
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -n
+cirp -fl
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirstrash
+usage
+cirsw
+cirp
+usage
+cirsim -f pattern.08
+usage
+cirp -fec
+usage
+
+cirp
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirp -n
+cirp -fl
+cirp -fec
+usage
+cirr sim09.aag -r
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -n
+cirp -fl
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirstrash
+usage
+cirsw
+cirp
+usage
+cirsim -f pattern.09
+usage
+cirp -fec
+usage
+
+cirp
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirp -n
+cirp -fl
+cirp -fec
+usage
+cirr sim10.aag -r
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -n
+cirp -fl
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirstrash
+usage
+cirsw
+cirp
+usage
+cirsim -f pattern.10
+usage
+cirp -fec
+usage
+
+cirp
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirp -n
+cirp -fl
+cirp -fec
+usage
+cirr sim11.aag -r
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -n
+cirp -fl
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirstrash
+usage
+cirsw
+cirp
+usage
+cirsim -f pattern.11
+usage
+cirp -fec
+usage
+
+cirp
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirp -n
+cirp -fl
+cirp -fec
+usage
+cirr sim12.aag -r
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -n
+cirp -fl
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirstrash
+usage
+cirsw
+cirp
+usage
+cirsim -f pattern.12
+cirp -fec
+usage
+
+cirp
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirp -n
+cirp -fl
+cirp -fec
+usage
+cirr sim13.aag -r
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -n
+cirp -fl
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirstrash
+usage
+cirsw
+cirp
+usage
+cirsim -f pattern.13
+usage
+cirp -fec
+usage
+
+cirp
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirp -n
+cirp -fl
+cirp -fec
+usage
+cirr sim14.aag -r
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -n
+cirp -fl
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirstrash
+usage
+cirsw
+cirp
+usage
+cirsim -f pattern.14
+usage
+cirp -fec
+usage
+
+cirp
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirp -n
+cirp -fl
+cirp -fec
+usage
+cirr sim15.aag -r
+cirp
+cirp -pi
+cirg 4 -fanout 9
+cirg 8 -fanout 7
+cirg 26 -fanin 8
+cirg 8345 -fanin 23
+cirg 8325 -fanout 88
+cirg 4
+cirg 88
+cirg 76
+cirg 999
+cirg 1000
+cirp -po
+cirp -n
+cirp -fl
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirstrash
+usage
+cirsw
+cirp
+usage
+cirsim -f pattern.15
+usage
+cirp -fec
+usage
+
+cirp
+usage
+ciropt
+cirp
+usage
+cirsw
+cirp
+usage
+cirp -n
+cirp -fl
+cirp -fec
+usage
+q -f

@@ -1,0 +1,290 @@
+cir> cirr err01.aag
+
+cir> cirp -n
+
+cir> cirr err02.aag
+
+cir> cirp -n
+
+cir> cirr err03.aag
+
+cir> cirp -n
+
+cir> cirr err04.aag
+
+cir> cirp -n
+
+cir> cirr err05.aag
+
+cir> cirp -n
+
+cir> cirr err06.aag
+
+cir> cirp -n
+
+cir> cirr err07.aag
+
+cir> cirp -n
+
+cir> cirr err08.aag
+
+cir> cirp -n
+
+cir> cirr err09.aag
+
+cir> cirp -n
+
+cir> cirr err10.aag
+
+cir> cirp -n
+
+cir> cirr err11.aag
+
+cir> cirp -n
+
+cir> cirr err12.aag
+
+cir> cirp -n
+
+cir> cirr err13.aag
+
+cir> cirp -n
+
+cir> cirr err14.aag
+
+cir> cirp -n
+
+cir> cirr err15.aag
+
+cir> cirp -n
+
+cir> cirr err16.aag
+
+cir> cirp -n
+
+cir> cirr err17.aag
+
+cir> cirp -n
+
+cir> cirr err18.aag
+
+cir> cirp -n
+
+cir> cirr err19.aag
+
+cir> cirp -n
+
+cir> cirr err20.aag
+
+cir> cirp -n
+
+cir> cirr err21.aag
+
+cir> cirp -n
+
+cir> cirr err22.aag
+
+cir> cirp -n
+
+cir> cirr err23.aag
+
+cir> cirp -n
+
+cir> cirr err24.aag
+
+cir> cirp -n
+
+cir> cirr err25.aag
+
+cir> cirp -n
+
+cir> cirr err26.aag
+
+cir> cirp -n
+
+cir> cirr err27.aag
+
+cir> cirp -n
+
+cir> cirr err28.aag
+
+cir> cirp -n
+
+cir> cirr err29.aag
+
+cir> cirp -n
+
+cir> cirr err30.aag
+
+cir> cirp -n
+
+cir> cirr err31.aag
+
+cir> cirp -n
+
+cir> cirr err32.aag
+
+cir> cirp -n
+
+cir> cirr err33.aag
+
+cir> cirp -n
+
+cir> cirr err34.aag
+
+cir> cirp -n
+
+cir> cirr err35.aag
+
+cir> cirp -n
+
+cir> cirr err36.aag
+
+cir> cirp -n
+
+cir> cirr err37.aag
+
+cir> cirp -n
+
+cir> cirr err38.aag
+
+cir> cirp -n
+
+cir> cirr err39.aag
+
+cir> cirp -n
+
+cir> cirr err40.aag
+
+cir> cirp -n
+
+cir> cirr err41.aag
+
+cir> cirp -n
+
+cir> cirr err42.aag
+
+cir> cirp -n
+
+cir> cirr err43.aag
+
+cir> cirp -n
+
+cir> cirr err44.aag
+
+cir> cirp -n
+
+cir> cirr err45.aag
+
+cir> cirp -n
+
+cir> cirr err47.aag
+
+cir> cirp -n
+
+cir> cirr err49.aag
+
+cir> cirp -n
+
+cir> cirr err50.aag
+
+cir> cirp -n
+
+cir> cirr err51.aag
+
+cir> cirp -n
+
+cir> cirr err52.aag
+
+cir> cirp -n
+
+cir> cirr err54.aag
+
+cir> cirp -n
+
+cir> cirr err55.aag
+
+cir> cirp -n
+
+cir> cirr err56.aag
+
+cir> cirp -n
+
+cir> cirr err57.aag
+
+cir> cirp -n
+
+cir> cirr err58.aag
+
+cir> cirp -n
+
+cir> cirr err59.aag
+
+cir> cirp -n
+
+cir> cirr err60.aag
+
+cir> cirp -n
+
+cir> cirr err61.aag
+
+cir> cirp -n
+
+cir> cirr err62.aag
+
+cir> cirp -n
+
+cir> cirr err63.aag
+
+cir> cirp -n
+
+cir> cirr err46.aag
+
+cir> cirp -n
+
+[0] PI  1
+[1] PI  2
+[2] AIG 6 1 2
+[3] AIG 7 1 2
+[4] AIG 3 !6 !7
+[5] PO  8 3
+[6] PO  9 6
+
+cir> cirr err48.aag
+
+cir> cirp -n
+
+[0] PI  1
+[1] PI  2
+[2] AIG 6 1 2
+[3] AIG 7 1 2
+[4] AIG 3 !6 !7
+[5] PO  8 3
+[6] PO  9 6
+
+cir> cirr err53.aag
+
+cir> cirp -n
+
+[0] PI  1
+[1] PI  2
+[2] AIG 6 1 2
+[3] AIG 7 1 2
+[4] AIG 3 !6 !7
+[5] PO  8 3
+[6] PO  9 6
+
+cir> cirr good.aag
+
+cir> cirp
+
+Circuit Statistics
+==================
+  PI           2
+  PO           2
+  AIG          3
+------------------
+  Total        7
+
+cir> 
+cir> 

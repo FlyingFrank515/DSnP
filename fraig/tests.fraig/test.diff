@@ -1,0 +1,1302 @@
+52,53c52,53
+< Period time used : 0 seconds
+< Total time used  : 0 seconds
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.01 seconds
+150,151c150,151
+< Period time used : 0 seconds
+< Total time used  : 0 seconds
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.02 seconds
+249c249
+< Total time used  : 0 seconds
+---
+> Total time used  : 0.02 seconds
+345,346c345,346
+< Period time used : 0 seconds
+< Total time used  : 0 seconds
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.03 seconds
+475,476c475,476
+< Period time used : 0 seconds
+< Total time used  : 0 seconds
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.04 seconds
+640c640
+< Total time used  : 0 seconds
+---
+> Total time used  : 0.04 seconds
+753,754c753,754
+< Period time used : 0.01 seconds
+< Total time used  : 0.01 seconds
+---
+> Period time used : 0 seconds
+> Total time used  : 0.04 seconds
+881,882c881,882
+< Period time used : 0 seconds
+< Total time used  : 0.01 seconds
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.05 seconds
+1008,1009c1008,1009
+< Period time used : 0 seconds
+< Total time used  : 0.01 seconds
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.06 seconds
+1137c1137
+< Total time used  : 0.01 seconds
+---
+> Total time used  : 0.06 seconds
+1265c1265
+< Total time used  : 0.02 seconds
+---
+> Total time used  : 0.07 seconds
+1399,1400c1399,1400
+< Period time used : 0 seconds
+< Total time used  : 0.02 seconds
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.08 seconds
+1526c1526
+< Total time used  : 0.02 seconds
+---
+> Total time used  : 0.08 seconds
+1641c1641
+< Total time used  : 0.03 seconds
+---
+> Total time used  : 0.09 seconds
+1761c1761
+< Total time used  : 0.03 seconds
+---
+> Total time used  : 0.09 seconds
+1884,1885c1884,1885
+< Period time used : 0 seconds
+< Total time used  : 0.03 seconds
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.1 seconds
+2007c2007
+< Total time used  : 0.03 seconds
+---
+> Total time used  : 0.1 seconds
+3514c3514
+< Total time used  : 0.04 seconds
+---
+> Total time used  : 0.11 seconds
+5030,5031c5030,5031
+< Period time used : 0 seconds
+< Total time used  : 0.04 seconds
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.12 seconds
+5150,5151c5150,5151
+< Period time used : 0 seconds
+< Total time used  : 0.04 seconds
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.13 seconds
+5258c5258
+< Total time used  : 0.05 seconds
+---
+> Total time used  : 0.14 seconds
+5356c5356
+< Total time used  : 0.05 seconds
+---
+> Total time used  : 0.14 seconds
+5453c5453
+< Total time used  : 0.05 seconds
+---
+> Total time used  : 0.14 seconds
+5578c5578
+< Total time used  : 0.05 seconds
+---
+> Total time used  : 0.14 seconds
+5742,5743c5742,5743
+< Period time used : 0.01 seconds
+< Total time used  : 0.06 seconds
+---
+> Period time used : 0 seconds
+> Total time used  : 0.14 seconds
+5896c5896
+< Total time used  : 0.06 seconds
+---
+> Total time used  : 0.14 seconds
+6026c6026
+< Total time used  : 0.06 seconds
+---
+> Total time used  : 0.14 seconds
+6152,6153c6152,6153
+< Period time used : 0 seconds
+< Total time used  : 0.06 seconds
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.15 seconds
+6281,6282c6281,6282
+< Period time used : 0.01 seconds
+< Total time used  : 0.07 seconds
+---
+> Period time used : 0 seconds
+> Total time used  : 0.15 seconds
+6409,6410c6409,6410
+< Period time used : 0 seconds
+< Total time used  : 0.07 seconds
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.16 seconds
+6547c6547
+< Total time used  : 0.07 seconds
+---
+> Total time used  : 0.16 seconds
+6669,6670c6669,6670
+< Period time used : 0 seconds
+< Total time used  : 0.07 seconds
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.17 seconds
+6786c6786
+< Total time used  : 0.07 seconds
+---
+> Total time used  : 0.17 seconds
+6897c6897
+< Total time used  : 0.07 seconds
+---
+> Total time used  : 0.17 seconds
+7022,7023c7022,7023
+< Period time used : 0.01 seconds
+< Total time used  : 0.08 seconds
+---
+> Period time used : 0 seconds
+> Total time used  : 0.17 seconds
+7142,7143c7142,7143
+< Period time used : 0 seconds
+< Total time used  : 0.08 seconds
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.18 seconds
+8651,8653c8651,8653
+< Period time used : 0.01 seconds
+< Total time used  : 0.09 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 0.18 seconds
+> Total memory used: 0 M Bytes
+10169,10170c10169,10170
+< Total time used  : 0.09 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.18 seconds
+> Total memory used: 0 M Bytes
+10298,10300c10298,10300
+< Period time used : 0 seconds
+< Total time used  : 0.09 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10316,10317c10316,10317
+< Total time used  : 0.09 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10333,10334c10333,10334
+< Total time used  : 0.09 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10340,10341c10340,10341
+< Total time used  : 0.09 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10357,10358c10357,10358
+< Total time used  : 0.09 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10361c10361
+< 32 patterns simulated.
+---
+> Total #FEC Group = 132 patterns simulated.
+10365,10366c10365,10366
+< Total time used  : 0.09 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10373,10374c10373,10374
+< Total time used  : 0.09 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10389,10390c10389,10390
+< Total time used  : 0.09 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10406,10407c10406,10407
+< Total time used  : 0.09 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10422,10424c10422,10424
+< Period time used : 0.01 seconds
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10446,10447c10446,10447
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10514,10515c10514,10515
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10531,10532c10531,10532
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10548,10549c10548,10549
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10555,10556c10555,10556
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10572,10573c10572,10573
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10576c10576
+< 20 patterns simulated.
+---
+> Total #FEC Group = 120 patterns simulated.
+10580,10581c10580,10581
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10588,10589c10588,10589
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10604,10605c10604,10605
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10621,10622c10621,10622
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10638,10639c10638,10639
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10661,10662c10661,10662
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10729,10730c10729,10730
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10746,10747c10746,10747
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10763,10764c10763,10764
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10770,10771c10770,10771
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10787,10788c10787,10788
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10791c10791
+< 111 patterns simulated.
+---
+> Total #FEC Group = 1Total #FEC Group = 1111 patterns simulated.
+10795,10796c10795,10796
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10803,10804c10803,10804
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10819,10820c10819,10820
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10836,10837c10836,10837
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10853,10854c10853,10854
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10876,10877c10876,10877
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10926,10927c10926,10927
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10943,10944c10943,10944
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10960,10961c10960,10961
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10967,10968c10967,10968
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10984,10985c10984,10985
+< Total time used  : 0.1 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10988c10988
+< 0 patterns simulated.
+---
+> 0 patterns simulated.
+10991,10993c10991,10993
+< Period time used : 0.01 seconds
+< Total time used  : 0.11 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+10999,11000c10999,11000
+< Total time used  : 0.11 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+11015,11016c11015,11016
+< Total time used  : 0.11 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+11032,11033c11032,11033
+< Total time used  : 0.11 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+11049,11050c11049,11050
+< Total time used  : 0.11 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.19 seconds
+> Total memory used: 0 M Bytes
+11062,11064c11062,11064
+< Period time used : 0 seconds
+< Total time used  : 0.11 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.2 seconds
+> Total memory used: 0 M Bytes
+11154,11155c11154,11155
+< Total time used  : 0.11 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0 M Bytes
+11182,11183c11182,11183
+< Total time used  : 0.11 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0 M Bytes
+11199,11200c11199,11200
+< Total time used  : 0.11 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0 M Bytes
+11206,11207c11206,11207
+< Total time used  : 0.11 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0 M Bytes
+11223,11224c11223,11224
+< Total time used  : 0.11 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0 M Bytes
+11227c11227
+< 0 patterns simulated.
+---
+> 0 patterns simulated.
+11231,11232c11231,11232
+< Total time used  : 0.11 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0 M Bytes
+11238,11239c11238,11239
+< Total time used  : 0.11 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0 M Bytes
+11254,11255c11254,11255
+< Total time used  : 0.11 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0 M Bytes
+11271,11272c11271,11272
+< Total time used  : 0.11 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0 M Bytes
+11288,11289c11288,11289
+< Total time used  : 0.11 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0 M Bytes
+11304,11305c11304,11305
+< Total time used  : 0.11 seconds
+< Total memory used: 0.418 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0 M Bytes
+23086,23088c23086,23088
+< Period time used : 0.02 seconds
+< Total time used  : 0.13 seconds
+< Total memory used: 3.391 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 0.2 seconds
+> Total memory used: 0.3398 M Bytes
+23104,23105c23104,23105
+< Total time used  : 0.13 seconds
+< Total memory used: 3.52 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0.3594 M Bytes
+25214,25216c25214,25216
+< Period time used : 0.01 seconds
+< Total time used  : 0.14 seconds
+< Total memory used: 3.52 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 0.2 seconds
+> Total memory used: 0.3594 M Bytes
+25222,25223c25222,25223
+< Total time used  : 0.14 seconds
+< Total memory used: 3.52 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0.3594 M Bytes
+25239,25240c25239,25240
+< Total time used  : 0.14 seconds
+< Total memory used: 3.52 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0.3594 M Bytes
+25243c25243
+< 34 patterns simulated.
+---
+> Total #FEC Group = 24734 patterns simulated.
+25247,25248c25247,25248
+< Total time used  : 0.14 seconds
+< Total memory used: 3.52 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0.3594 M Bytes
+25501,25502c25501,25502
+< Total time used  : 0.14 seconds
+< Total memory used: 3.52 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0.3594 M Bytes
+25517,25518c25517,25518
+< Total time used  : 0.14 seconds
+< Total memory used: 3.52 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0.3594 M Bytes
+25534,25535c25534,25535
+< Total time used  : 0.14 seconds
+< Total memory used: 3.52 M Bytes
+---
+> Total time used  : 0.2 seconds
+> Total memory used: 0.3594 M Bytes
+25550,25552c25550,25552
+< Period time used : 0.01 seconds
+< Total time used  : 0.15 seconds
+< Total memory used: 3.52 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 0.2 seconds
+> Total memory used: 0.3594 M Bytes
+30165,30167c30165,30167
+< Period time used : 0 seconds
+< Total time used  : 0.15 seconds
+< Total memory used: 3.52 M Bytes
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.21 seconds
+> Total memory used: 0.3594 M Bytes
+55978,55980c55978,55980
+< Period time used : 0.05 seconds
+< Total time used  : 0.2 seconds
+< Total memory used: 6.355 M Bytes
+---
+> Period time used : 0.04 seconds
+> Total time used  : 0.25 seconds
+> Total memory used: 0.7227 M Bytes
+55996,55997c55996,55997
+< Total time used  : 0.2 seconds
+< Total memory used: 6.613 M Bytes
+---
+> Total time used  : 0.25 seconds
+> Total memory used: 0.8711 M Bytes
+56013,56014c56013,56014
+< Total time used  : 0.2 seconds
+< Total memory used: 6.613 M Bytes
+---
+> Total time used  : 0.25 seconds
+> Total memory used: 0.8711 M Bytes
+56019,56021c56019,56021
+< Period time used : 0.01 seconds
+< Total time used  : 0.21 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 0.25 seconds
+> Total memory used: 1.383 M Bytes
+56037,56038c56037,56038
+< Total time used  : 0.21 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.25 seconds
+> Total memory used: 1.383 M Bytes
+56044,56045c56044,56045
+< Total time used  : 0.21 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.25 seconds
+> Total memory used: 1.383 M Bytes
+56051,56052c56051,56052
+< Total time used  : 0.21 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.25 seconds
+> Total memory used: 1.383 M Bytes
+56067,56068c56067,56068
+< Total time used  : 0.21 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.25 seconds
+> Total memory used: 1.383 M Bytes
+56083,56085c56083,56085
+< Period time used : 0.01 seconds
+< Total time used  : 0.22 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 0.25 seconds
+> Total memory used: 1.383 M Bytes
+56101,56102c56101,56102
+< Total time used  : 0.22 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.25 seconds
+> Total memory used: 1.383 M Bytes
+65748,65750c65748,65750
+< Period time used : 0.02 seconds
+< Total time used  : 0.24 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.26 seconds
+> Total memory used: 1.383 M Bytes
+65814,65815c65814,65815
+< Total time used  : 0.24 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.26 seconds
+> Total memory used: 1.383 M Bytes
+65831,65832c65831,65832
+< Total time used  : 0.24 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.26 seconds
+> Total memory used: 1.383 M Bytes
+65848,65849c65848,65849
+< Total time used  : 0.24 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.26 seconds
+> Total memory used: 1.383 M Bytes
+65857,65858c65857,65858
+< Total time used  : 0.24 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.26 seconds
+> Total memory used: 1.383 M Bytes
+65874,65875c65874,65875
+< Total time used  : 0.24 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.26 seconds
+> Total memory used: 1.383 M Bytes
+65878c65878
+< 1 patterns simulated.
+---
+> Total #FEC Group = 11 patterns simulated.
+65882,65883c65882,65883
+< Total time used  : 0.24 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.26 seconds
+> Total memory used: 1.383 M Bytes
+65890,65891c65890,65891
+< Total time used  : 0.24 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.26 seconds
+> Total memory used: 1.383 M Bytes
+65906,65907c65906,65907
+< Total time used  : 0.24 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.26 seconds
+> Total memory used: 1.383 M Bytes
+65923,65924c65923,65924
+< Total time used  : 0.24 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.26 seconds
+> Total memory used: 1.383 M Bytes
+65940,65941c65940,65941
+< Total time used  : 0.24 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.26 seconds
+> Total memory used: 1.383 M Bytes
+65960,65961c65960,65961
+< Total time used  : 0.24 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.26 seconds
+> Total memory used: 1.383 M Bytes
+69827,69829c69827,69829
+< Period time used : 0.01 seconds
+< Total time used  : 0.25 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 0.26 seconds
+> Total memory used: 1.383 M Bytes
+71053c71053
+< Period time used : 0.01 seconds
+---
+> Period time used : 0 seconds
+71055c71055
+< Total memory used: 7.129 M Bytes
+---
+> Total memory used: 1.383 M Bytes
+71072c71072
+< Total memory used: 7.129 M Bytes
+---
+> Total memory used: 1.383 M Bytes
+71588c71588
+< Total memory used: 7.129 M Bytes
+---
+> Total memory used: 1.383 M Bytes
+71605c71605
+< Total memory used: 7.129 M Bytes
+---
+> Total memory used: 1.383 M Bytes
+71608c71608
+< 1920 patterns simulated.
+---
+> Total #FEC Group = 200Total #FEC Group = 168Total #FEC Group = 167Total #FEC Group = 168Total #FEC Group = 160Total #FEC Group = 159Total #FEC Group = 158Total #FEC Group = 159Total #FEC Group = 159Total #FEC Group = 160Total #FEC Group = 160Total #FEC Group = 163Total #FEC Group = 164Total #FEC Group = 164Total #FEC Group = 164Total #FEC Group = 164Total #FEC Group = 164Total #FEC Group = 164Total #FEC Group = 164Total #FEC Group = 164Total #FEC Group = 164Total #FEC Group = 165Total #FEC Group = 165Total #FEC Group = 165Total #FEC Group = 165Total #FEC Group = 165Total #FEC Group = 165Total #FEC Group = 165Total #FEC Group = 165Total #FEC Group = 1651920 patterns simulated.
+71611,71613c71611,71613
+< Period time used : 0.02 seconds
+< Total time used  : 0.29 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 0.27 seconds
+> Total memory used: 1.383 M Bytes
+71784,71785c71784,71785
+< Total time used  : 0.29 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.27 seconds
+> Total memory used: 1.383 M Bytes
+71800,71801c71800,71801
+< Total time used  : 0.29 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.27 seconds
+> Total memory used: 1.383 M Bytes
+71816,71818c71816,71818
+< Period time used : 0 seconds
+< Total time used  : 0.29 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.28 seconds
+> Total memory used: 1.383 M Bytes
+71834,71835c71834,71835
+< Total time used  : 0.29 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.28 seconds
+> Total memory used: 1.383 M Bytes
+73880,73881c73880,73881
+< Total time used  : 0.29 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.28 seconds
+> Total memory used: 1.383 M Bytes
+75066,75067c75066,75067
+< Total time used  : 0.29 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.28 seconds
+> Total memory used: 1.383 M Bytes
+75214,75215c75214,75215
+< Total time used  : 0.29 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.28 seconds
+> Total memory used: 1.383 M Bytes
+75231,75232c75231,75232
+< Total time used  : 0.29 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.28 seconds
+> Total memory used: 1.383 M Bytes
+75481,75482c75481,75482
+< Total time used  : 0.29 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.28 seconds
+> Total memory used: 1.383 M Bytes
+75498,75499c75498,75499
+< Total time used  : 0.29 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.28 seconds
+> Total memory used: 1.383 M Bytes
+75502c75502
+< 896 patterns simulated.
+---
+> Total #FEC Group = 42Total #FEC Group = 28Total #FEC Group = 25Total #FEC Group = 23Total #FEC Group = 22Total #FEC Group = 21Total #FEC Group = 21Total #FEC Group = 21Total #FEC Group = 20Total #FEC Group = 20Total #FEC Group = 20Total #FEC Group = 20Total #FEC Group = 20Total #FEC Group = 20896 patterns simulated.
+75505,75507c75505,75507
+< Period time used : 0.01 seconds
+< Total time used  : 0.3 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 0.28 seconds
+> Total memory used: 1.383 M Bytes
+75533,75534c75533,75534
+< Total time used  : 0.3 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.28 seconds
+> Total memory used: 1.383 M Bytes
+75549,75550c75549,75550
+< Total time used  : 0.3 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.28 seconds
+> Total memory used: 1.383 M Bytes
+75566,75567c75566,75567
+< Total time used  : 0.3 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.28 seconds
+> Total memory used: 1.383 M Bytes
+75583,75584c75583,75584
+< Total time used  : 0.3 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.28 seconds
+> Total memory used: 1.383 M Bytes
+75994,75995c75994,75995
+< Total time used  : 0.3 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.28 seconds
+> Total memory used: 1.383 M Bytes
+76054,76056c76054,76056
+< Period time used : 0 seconds
+< Total time used  : 0.3 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.29 seconds
+> Total memory used: 1.383 M Bytes
+76072,76073c76072,76073
+< Total time used  : 0.3 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.29 seconds
+> Total memory used: 1.383 M Bytes
+76089,76090c76089,76090
+< Total time used  : 0.3 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.29 seconds
+> Total memory used: 1.383 M Bytes
+76096,76097c76096,76097
+< Total time used  : 0.3 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.29 seconds
+> Total memory used: 1.383 M Bytes
+76113,76114c76113,76114
+< Total time used  : 0.3 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.29 seconds
+> Total memory used: 1.383 M Bytes
+76117c76117
+< 1 patterns simulated.
+---
+> Total #FEC Group = 11 patterns simulated.
+76121,76122c76121,76122
+< Total time used  : 0.3 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.29 seconds
+> Total memory used: 1.383 M Bytes
+76129,76130c76129,76130
+< Total time used  : 0.3 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.29 seconds
+> Total memory used: 1.383 M Bytes
+76145,76146c76145,76146
+< Total time used  : 0.3 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.29 seconds
+> Total memory used: 1.383 M Bytes
+76162,76163c76162,76163
+< Total time used  : 0.3 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.29 seconds
+> Total memory used: 1.383 M Bytes
+76179,76180c76179,76180
+< Total time used  : 0.3 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.29 seconds
+> Total memory used: 1.383 M Bytes
+76198,76199c76198,76199
+< Total time used  : 0.3 seconds
+< Total memory used: 7.129 M Bytes
+---
+> Total time used  : 0.29 seconds
+> Total memory used: 1.383 M Bytes
+87018,87019c87018,87019
+< Total time used  : 0.33 seconds
+< Total memory used: 10.74 M Bytes
+---
+> Total time used  : 0.32 seconds
+> Total memory used: 1.383 M Bytes
+87035,87036c87035,87036
+< Total time used  : 0.33 seconds
+< Total memory used: 11 M Bytes
+---
+> Total time used  : 0.32 seconds
+> Total memory used: 1.383 M Bytes
+87051,87053c87051,87053
+< Period time used : 0.01 seconds
+< Total time used  : 0.34 seconds
+< Total memory used: 11 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 0.32 seconds
+> Total memory used: 1.383 M Bytes
+87059,87060c87059,87060
+< Total time used  : 0.34 seconds
+< Total memory used: 11.25 M Bytes
+---
+> Total time used  : 0.32 seconds
+> Total memory used: 1.383 M Bytes
+87075,87077c87075,87077
+< Period time used : 0.01 seconds
+< Total time used  : 0.35 seconds
+< Total memory used: 11.25 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 0.32 seconds
+> Total memory used: 1.383 M Bytes
+87080c87080
+< 11936 patterns simulated.
+---
+> Total #FEC Group = 2376Total #FEC Group = 2502Total #FEC Group = 2548Total #FEC Group = 2583Total #FEC Group = 2559Total #FEC Group = 2564Total #FEC Group = 2542Total #FEC Group = 2537Total #FEC Group = 2533Total #FEC Group = 2538Total #FEC Group = 2538Total #FEC Group = 2539Total #FEC Group = 2544Total #FEC Group = 2545Total #FEC Group = 2547Total #FEC Group = 2546Total #FEC Group = 2552Total #FEC Group = 2552Total #FEC Group = 2552Total #FEC Group = 2567Total #FEC Group = 2568Total #FEC Group = 2569Total #FEC Group = 2575Total #FEC Group = 2577Total #FEC Group = 2582Total #FEC Group = 2582Total #FEC Group = 2582Total #FEC Group = 2584Total #FEC Group = 2585Total #FEC Group = 2584Total #FEC Group = 2584Total #FEC Group = 2587Total #FEC Group = 2587Total #FEC Group = 2588Total #FEC Group = 2588Total #FEC Group = 2590Total #FEC Group = 2589Total #FEC Group = 2589Total #FEC Group = 2589Total #FEC Group = 2589Total #FEC Group = 2588Total #FEC Group = 2588Total #FEC Group = 2587Total #FEC Group = 2594Total #FEC Group = 2594Total #FEC Group = 2595Total #FEC Group = 2594Total #FEC Group = 2594Total #FEC Group = 2594Total #FEC Group = 2594Total #FEC Group = 2594Total #FEC Group = 2594Total #FEC Group = 2594Total #FEC Group = 2595Total #FEC Group = 2599Total #FEC Group = 2599Total #FEC Group = 2599Total #FEC Group = 2599Total #FEC Group = 2599Total #FEC Group = 2599Total #FEC Group = 2599Total #FEC Group = 2604Total #FEC Group = 2604Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2600Total #FEC Group = 2600Total #FEC Group = 2600Total #FEC Group = 2600Total #FEC Group = 2600Total #FEC Group = 2600Total #FEC Group = 2600Total #FEC Group = 2602Total #FEC Group = 2602Total #FEC Group = 2602Total #FEC Group = 2602Total #FEC Group = 2602Total #FEC Group = 2603Total #FEC Group = 2603Total #FEC Group = 2603Total #FEC Group = 2602Total #FEC Group = 2602Total #FEC Group = 2602Total #FEC Group = 2602Total #FEC Group = 2602Total #FEC Group = 2602Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2601Total #FEC Group = 2600Total #FEC Group = 2600Total #FEC Group = 2600Total #FEC Group = 2600Total #FEC Group = 2600Total #FEC Group = 2599Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 2597Total #FEC Group = 260011936 patterns simulated.
+89685,89687c89685,89687
+< Period time used : 0.82 seconds
+< Total time used  : 1.17 seconds
+< Total memory used: 13.32 M Bytes
+---
+> Period time used : 0.27 seconds
+> Total time used  : 0.59 seconds
+> Total memory used: 1.383 M Bytes
+89702,89703c89702,89703
+< Total time used  : 1.17 seconds
+< Total memory used: 13.32 M Bytes
+---
+> Total time used  : 0.59 seconds
+> Total memory used: 1.383 M Bytes
+89719,89720c89719,89720
+< Total time used  : 1.17 seconds
+< Total memory used: 13.32 M Bytes
+---
+> Total time used  : 0.59 seconds
+> Total memory used: 1.383 M Bytes
+89735,89737c89735,89737
+< Period time used : 0.01 seconds
+< Total time used  : 1.18 seconds
+< Total memory used: 13.32 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 0.59 seconds
+> Total memory used: 1.383 M Bytes
+101988,101990c101988,101990
+< Period time used : 0.01 seconds
+< Total time used  : 1.19 seconds
+< Total memory used: 13.32 M Bytes
+---
+> Period time used : 0.02 seconds
+> Total time used  : 0.61 seconds
+> Total memory used: 1.383 M Bytes
+217646,217648c217646,217648
+< Period time used : 0.24 seconds
+< Total time used  : 1.43 seconds
+< Total memory used: 53.66 M Bytes
+---
+> Period time used : 0.17 seconds
+> Total time used  : 0.78 seconds
+> Total memory used: 13.58 M Bytes
+217663,217665c217663,217665
+< Period time used : 0.05 seconds
+< Total time used  : 1.48 seconds
+< Total memory used: 53.66 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 0.78 seconds
+> Total memory used: 13.61 M Bytes
+217680,217682c217680,217682
+< Period time used : 0.04 seconds
+< Total time used  : 1.52 seconds
+< Total memory used: 53.66 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 0.78 seconds
+> Total memory used: 13.61 M Bytes
+217687,217689c217687,217689
+< Period time used : 0.08 seconds
+< Total time used  : 1.6 seconds
+< Total memory used: 57.04 M Bytes
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.79 seconds
+> Total memory used: 16.71 M Bytes
+217704,217706c217704,217706
+< Period time used : 0.04 seconds
+< Total time used  : 1.64 seconds
+< Total memory used: 57.04 M Bytes
+---
+> Period time used : 0.01 seconds
+> Total time used  : 0.8 seconds
+> Total memory used: 16.71 M Bytes
+217709c217709
+< 22912 patterns simulated.
+---
+> Total #FEC Group = 7500Total #FEC Group = 6439Total #FEC Group = 6177Total #FEC Group = 6219Total #FEC Group = 6230Total #FEC Group = 6235Total #FEC Group = 6255Total #FEC Group = 6284Total #FEC Group = 6274Total #FEC Group = 6281Total #FEC Group = 6287Total #FEC Group = 6280Total #FEC Group = 6297Total #FEC Group = 6249Total #FEC Group = 6207Total #FEC Group = 6181Total #FEC Group = 6166Total #FEC Group = 6119Total #FEC Group = 6097Total #FEC Group = 6047Total #FEC Group = 6009Total #FEC Group = 5975Total #FEC Group = 5897Total #FEC Group = 5850Total #FEC Group = 5832Total #FEC Group = 5772Total #FEC Group = 5734Total #FEC Group = 5692Total #FEC Group = 5629Total #FEC Group = 5575Total #FEC Group = 5545Total #FEC Group = 5514Total #FEC Group = 5487Total #FEC Group = 5446Total #FEC Group = 5424Total #FEC Group = 5389Total #FEC Group = 5342Total #FEC Group = 5302Total #FEC Group = 5256Total #FEC Group = 5205Total #FEC Group = 5181Total #FEC Group = 5138Total #FEC Group = 5114Total #FEC Group = 5088Total #FEC Group = 5060Total #FEC Group = 5043Total #FEC Group = 5007Total #FEC Group = 4978Total #FEC Group = 4945Total #FEC Group = 4884Total #FEC Group = 4865Total #FEC Group = 4851Total #FEC Group = 4834Total #FEC Group = 4812Total #FEC Group = 4785Total #FEC Group = 4742Total #FEC Group = 4723Total #FEC Group = 4699Total #FEC Group = 4679Total #FEC Group = 4670Total #FEC Group = 4654Total #FEC Group = 4631Total #FEC Group = 4608Total #FEC Group = 4601Total #FEC Group = 4588Total #FEC Group = 4580Total #FEC Group = 4568Total #FEC Group = 4561Total #FEC Group = 4555Total #FEC Group = 4546Total #FEC Group = 4517Total #FEC Group = 4508Total #FEC Group = 4499Total #FEC Group = 4490Total #FEC Group = 4484Total #FEC Group = 4472Total #FEC Group = 4464Total #FEC Group = 4454Total #FEC Group = 4451Total #FEC Group = 4445Total #FEC Group = 4437Total #FEC Group = 4437Total #FEC Group = 4423Total #FEC Group = 4413Total #FEC Group = 4398Total #FEC Group = 4384Total #FEC Group = 4376Total #FEC Group = 4372Total #FEC Group = 4369Total #FEC Group = 4368Total #FEC Group = 4360Total #FEC Group = 4358Total #FEC Group = 4356Total #FEC Group = 4347Total #FEC Group = 4346Total #FEC Group = 4347Total #FEC Group = 4349Total #FEC Group = 4348Total #FEC Group = 4348Total #FEC Group = 4349Total #FEC Group = 4350Total #FEC Group = 4349Total #FEC Group = 4338Total #FEC Group = 4326Total #FEC Group = 4323Total #FEC Group = 4318Total #FEC Group = 4317Total #FEC Group = 4304Total #FEC Group = 4292Total #FEC Group = 4288Total #FEC Group = 4278Total #FEC Group = 4253Total #FEC Group = 4253Total #FEC Group = 4257Total #FEC Group = 4257Total #FEC Group = 4251Total #FEC Group = 4244Total #FEC Group = 4238Total #FEC Group = 4219Total #FEC Group = 4209Total #FEC Group = 4210Total #FEC Group = 4208Total #FEC Group = 4205Total #FEC Group = 4199Total #FEC Group = 4193Total #FEC Group = 4190Total #FEC Group = 4190Total #FEC Group = 4185Total #FEC Group = 4178Total #FEC Group = 4178Total #FEC Group = 4180Total #FEC Group = 4177Total #FEC Group = 4184Total #FEC Group = 4182Total #FEC Group = 4181Total #FEC Group = 4191Total #FEC Group = 4185Total #FEC Group = 4180Total #FEC Group = 4180Total #FEC Group = 4181Total #FEC Group = 4184Total #FEC Group = 4188Total #FEC Group = 4187Total #FEC Group = 4186Total #FEC Group = 4189Total #FEC Group = 4187Total #FEC Group = 4183Total #FEC Group = 4167Total #FEC Group = 4169Total #FEC Group = 4165Total #FEC Group = 4157Total #FEC Group = 4157Total #FEC Group = 4160Total #FEC Group = 4161Total #FEC Group = 4160Total #FEC Group = 4159Total #FEC Group = 4159Total #FEC Group = 4158Total #FEC Group = 4162Total #FEC Group = 4162Total #FEC Group = 4161Total #FEC Group = 4167Total #FEC Group = 4164Total #FEC Group = 4165Total #FEC Group = 4168Total #FEC Group = 4170Total #FEC Group = 4174Total #FEC Group = 4157Total #FEC Group = 4159Total #FEC Group = 4162Total #FEC Group = 4162Total #FEC Group = 4163Total #FEC Group = 4157Total #FEC Group = 4155Total #FEC Group = 4145Total #FEC Group = 4141Total #FEC Group = 4140Total #FEC Group = 4137Total #FEC Group = 4135Total #FEC Group = 4135Total #FEC Group = 4134Total #FEC Group = 4133Total #FEC Group = 4127Total #FEC Group = 4132Total #FEC Group = 4137Total #FEC Group = 4134Total #FEC Group = 4134Total #FEC Group = 4133Total #FEC Group = 4132Total #FEC Group = 4128Total #FEC Group = 4126Total #FEC Group = 4131Total #FEC Group = 4131Total #FEC Group = 4131Total #FEC Group = 4130Total #FEC Group = 4113Total #FEC Group = 4114Total #FEC Group = 4114Total #FEC Group = 4108Total #FEC Group = 4108Total #FEC Group = 4112Total #FEC Group = 4111Total #FEC Group = 4095Total #FEC Group = 4095Total #FEC Group = 4094Total #FEC Group = 4091Total #FEC Group = 4092Total #FEC Group = 4089Total #FEC Group = 4087Total #FEC Group = 4087Total #FEC Group = 4085Total #FEC Group = 4081Total #FEC Group = 4078Total #FEC Group = 4076Total #FEC Group = 4069Total #FEC Group = 4069Total #FEC Group = 4069Total #FEC Group = 4057Total #FEC Group = 4053Total #FEC Group = 4053Total #FEC Group = 4062Total #FEC Group = 4057Total #FEC Group = 4054Total #FEC Group = 4049Total #FEC Group = 4049Total #FEC Group = 4050Total #FEC Group = 4049Total #FEC Group = 4045Total #FEC Group = 4045Total #FEC Group = 4043Total #FEC Group = 4045Total #FEC Group = 4045Total #FEC Group = 4035Total #FEC Group = 4034Total #FEC Group = 4033Total #FEC Group = 4033Total #FEC Group = 4034Total #FEC Group = 4033Total #FEC Group = 4034Total #FEC Group = 4034Total #FEC Group = 4041Total #FEC Group = 4030Total #FEC Group = 4037Total #FEC Group = 4037Total #FEC Group = 4037Total #FEC Group = 4038Total #FEC Group = 4025Total #FEC Group = 4024Total #FEC Group = 4030Total #FEC Group = 4029Total #FEC Group = 4035Total #FEC Group = 4034Total #FEC Group = 4034Total #FEC Group = 4030Total #FEC Group = 4030Total #FEC Group = 4030Total #FEC Group = 4030Total #FEC Group = 4020Total #FEC Group = 4020Total #FEC Group = 4015Total #FEC Group = 4014Total #FEC Group = 4014Total #FEC Group = 4009Total #FEC Group = 4009Total #FEC Group = 4009Total #FEC Group = 4009Total #FEC Group = 4011Total #FEC Group = 4011Total #FEC Group = 4009Total #FEC Group = 4009Total #FEC Group = 4009Total #FEC Group = 4005Total #FEC Group = 3999Total #FEC Group = 3993Total #FEC Group = 3991Total #FEC Group = 3992Total #FEC Group = 3990Total #FEC Group = 3989Total #FEC Group = 3982Total #FEC Group = 3981Total #FEC Group = 3976Total #FEC Group = 3984Total #FEC Group = 3983Total #FEC Group = 3981Total #FEC Group = 3981Total #FEC Group = 3984Total #FEC Group = 3984Total #FEC Group = 3984Total #FEC Group = 3984Total #FEC Group = 3981Total #FEC Group = 3981Total #FEC Group = 3981Total #FEC Group = 3979Total #FEC Group = 3967Total #FEC Group = 3967Total #FEC Group = 3966Total #FEC Group = 3965Total #FEC Group = 3964Total #FEC Group = 3953Total #FEC Group = 3936Total #FEC Group = 3936Total #FEC Group = 3933Total #FEC Group = 3931Total #FEC Group = 3931Total #FEC Group = 3931Total #FEC Group = 3926Total #FEC Group = 3923Total #FEC Group = 3922Total #FEC Group = 3922Total #FEC Group = 3921Total #FEC Group = 3916Total #FEC Group = 3916Total #FEC Group = 3916Total #FEC Group = 3913Total #FEC Group = 3913Total #FEC Group = 3894Total #FEC Group = 3894Total #FEC Group = 3893Total #FEC Group = 3890Total #FEC Group = 3883Total #FEC Group = 3882Total #FEC Group = 3873Total #FEC Group = 3863Total #FEC Group = 3856Total #FEC Group = 3857Total #FEC Group = 3857Total #FEC Group = 3861Total #FEC Group = 3863Total #FEC Group = 3858Total #FEC Group = 3861Total #FEC Group = 3860Total #FEC Group = 3861Total #FEC Group = 3861Total #FEC Group = 3861Total #FEC Group = 3862Total #FEC Group = 3864Total #FEC Group = 3863Total #FEC Group = 3858Total #FEC Group = 3857Total #FEC Group = 3861Total #FEC Group = 3861Total #FEC Group = 3857Total #FEC Group = 3841Total #FEC Group = 3833Total #FEC Group = 3834Total #FEC Group = 3825Total #FEC Group = 3824Total #FEC Group = 3824Total #FEC Group = 3824Total #FEC Group = 3824Total #FEC Group = 3825Total #FEC Group = 3824Total #FEC Group = 3824Total #FEC Group = 3816Total #FEC Group = 3815Total #FEC Group = 3815Total #FEC Group = 3815Total #FEC Group = 381522912 patterns simulated.
+217712,217714c217712,217714
+< Period time used : 9.48 seconds
+< Total time used  : 11.12 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Period time used : 2.62 seconds
+> Total time used  : 3.42 seconds
+> Total memory used: 17.95 M Bytes
+221534,221536c221534,221536
+< Period time used : 0.01 seconds
+< Total time used  : 11.13 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 3.42 seconds
+> Total memory used: 17.95 M Bytes
+221551,221552c221551,221552
+< Total time used  : 11.13 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.42 seconds
+> Total memory used: 17.95 M Bytes
+221568,221569c221568,221569
+< Total time used  : 11.13 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.42 seconds
+> Total memory used: 17.95 M Bytes
+221584,221586c221584,221586
+< Period time used : 0.03 seconds
+< Total time used  : 11.16 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 3.42 seconds
+> Total memory used: 17.95 M Bytes
+313821,313823c313821,313823
+< Period time used : 0.09 seconds
+< Total time used  : 11.25 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Period time used : 0.13 seconds
+> Total time used  : 3.55 seconds
+> Total memory used: 17.95 M Bytes
+315028,315030c315028,315030
+< Period time used : 0.04 seconds
+< Total time used  : 11.29 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Period time used : 0.01 seconds
+> Total time used  : 3.56 seconds
+> Total memory used: 17.95 M Bytes
+315046,315047c315046,315047
+< Total time used  : 11.29 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.56 seconds
+> Total memory used: 17.95 M Bytes
+315063,315064c315063,315064
+< Total time used  : 11.29 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.56 seconds
+> Total memory used: 17.95 M Bytes
+315070,315071c315070,315071
+< Total time used  : 11.29 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.56 seconds
+> Total memory used: 17.95 M Bytes
+315087,315088c315087,315088
+< Total time used  : 11.29 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.56 seconds
+> Total memory used: 17.95 M Bytes
+315091c315091
+< 2752 patterns simulated.
+---
+> Total #FEC Group = 93Total #FEC Group = 101Total #FEC Group = 102Total #FEC Group = 113Total #FEC Group = 116Total #FEC Group = 120Total #FEC Group = 122Total #FEC Group = 128Total #FEC Group = 130Total #FEC Group = 131Total #FEC Group = 132Total #FEC Group = 138Total #FEC Group = 138Total #FEC Group = 138Total #FEC Group = 138Total #FEC Group = 140Total #FEC Group = 141Total #FEC Group = 141Total #FEC Group = 141Total #FEC Group = 141Total #FEC Group = 141Total #FEC Group = 141Total #FEC Group = 141Total #FEC Group = 141Total #FEC Group = 141Total #FEC Group = 143Total #FEC Group = 143Total #FEC Group = 145Total #FEC Group = 149Total #FEC Group = 149Total #FEC Group = 149Total #FEC Group = 149Total #FEC Group = 149Total #FEC Group = 149Total #FEC Group = 149Total #FEC Group = 149Total #FEC Group = 149Total #FEC Group = 149Total #FEC Group = 149Total #FEC Group = 149Total #FEC Group = 149Total #FEC Group = 149Total #FEC Group = 1492752 patterns simulated.
+315094,315096c315094,315096
+< Period time used : 0.02 seconds
+< Total time used  : 11.31 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 3.56 seconds
+> Total memory used: 17.95 M Bytes
+315251,315252c315251,315252
+< Total time used  : 11.31 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.56 seconds
+> Total memory used: 17.95 M Bytes
+315267,315268c315267,315268
+< Total time used  : 11.31 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.56 seconds
+> Total memory used: 17.95 M Bytes
+315284,315285c315284,315285
+< Total time used  : 11.31 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.56 seconds
+> Total memory used: 17.95 M Bytes
+315301,315302c315301,315302
+< Total time used  : 11.31 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.56 seconds
+> Total memory used: 17.95 M Bytes
+316390,316391c316390,316391
+< Total time used  : 11.31 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.56 seconds
+> Total memory used: 17.95 M Bytes
+317596,317598c317596,317598
+< Period time used : 0 seconds
+< Total time used  : 11.31 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Period time used : 0.01 seconds
+> Total time used  : 3.57 seconds
+> Total memory used: 17.95 M Bytes
+317613,317615c317613,317615
+< Period time used : 0.01 seconds
+< Total time used  : 11.32 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 3.57 seconds
+> Total memory used: 17.95 M Bytes
+317631,317632c317631,317632
+< Total time used  : 11.32 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.57 seconds
+> Total memory used: 17.95 M Bytes
+317638,317639c317638,317639
+< Total time used  : 11.32 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.57 seconds
+> Total memory used: 17.95 M Bytes
+317655,317656c317655,317656
+< Total time used  : 11.32 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.57 seconds
+> Total memory used: 17.95 M Bytes
+317659c317659
+< 3456 patterns simulated.
+---
+> Total #FEC Group = 92Total #FEC Group = 102Total #FEC Group = 109Total #FEC Group = 105Total #FEC Group = 95Total #FEC Group = 96Total #FEC Group = 95Total #FEC Group = 93Total #FEC Group = 91Total #FEC Group = 89Total #FEC Group = 83Total #FEC Group = 76Total #FEC Group = 74Total #FEC Group = 73Total #FEC Group = 66Total #FEC Group = 64Total #FEC Group = 61Total #FEC Group = 57Total #FEC Group = 54Total #FEC Group = 52Total #FEC Group = 49Total #FEC Group = 46Total #FEC Group = 45Total #FEC Group = 44Total #FEC Group = 43Total #FEC Group = 40Total #FEC Group = 38Total #FEC Group = 36Total #FEC Group = 31Total #FEC Group = 31Total #FEC Group = 31Total #FEC Group = 31Total #FEC Group = 31Total #FEC Group = 31Total #FEC Group = 31Total #FEC Group = 31Total #FEC Group = 31Total #FEC Group = 31Total #FEC Group = 31Total #FEC Group = 31Total #FEC Group = 31Total #FEC Group = 31Total #FEC Group = 30Total #FEC Group = 30Total #FEC Group = 30Total #FEC Group = 30Total #FEC Group = 30Total #FEC Group = 30Total #FEC Group = 30Total #FEC Group = 30Total #FEC Group = 30Total #FEC Group = 30Total #FEC Group = 30Total #FEC Group = 303456 patterns simulated.
+317663,317664c317663,317664
+< Total time used  : 11.33 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.58 seconds
+> Total memory used: 17.95 M Bytes
+317700,317701c317700,317701
+< Total time used  : 11.33 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.58 seconds
+> Total memory used: 17.95 M Bytes
+317716,317717c317716,317717
+< Total time used  : 11.33 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.58 seconds
+> Total memory used: 17.95 M Bytes
+317733,317734c317733,317734
+< Total time used  : 11.33 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.58 seconds
+> Total memory used: 17.95 M Bytes
+317750,317751c317750,317751
+< Total time used  : 11.33 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Total time used  : 3.58 seconds
+> Total memory used: 17.95 M Bytes
+318719,318721c318719,318721
+< Period time used : 0.01 seconds
+< Total time used  : 11.34 seconds
+< Total memory used: 70.96 M Bytes
+---
+> Period time used : 0 seconds
+> Total time used  : 3.58 seconds
+> Total memory used: 17.95 M Bytes

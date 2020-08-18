@@ -1,0 +1,63 @@
+[ERROR] Line 1, Col 1: Extra space character is detected!!
+[ERROR] Line 1, Col 1: Illegal white space char(9) is detected!!
+[ERROR] Line 1, Col 5: Extra space character is detected!!
+[ERROR] Line 1, Col 4: Missing space character!!
+[ERROR] Line 1: Illegal identifier "aagasd"!!
+[ERROR] Line 1, Col 5: Illegal white space char(9) is detected!!
+[ERROR] Line 1, Col 5: Missing number of variables!!
+[ERROR] Line 1, Col 11: Extra space character is detected!!
+[ERROR] Line 1, Col 10: Missing space character!!
+[ERROR] Line 1, Col 10: Missing space character!!
+[ERROR] Line 1, Col 14: A new line is expected here!!
+[ERROR] Line 1, Col 14: A new line is expected here!!
+[ERROR] Line 1: Number of variables is too small (3)!!
+[ERROR] Line 1: Illegal latches!!
+[ERROR] Line 2: Missing PI definition!!
+[ERROR] Line 2, Col 1: Extra space character is detected!!
+[ERROR] Line 2, Col 2: A new line is expected here!!
+[ERROR] Line 2, Col 2: A new line is expected here!!
+[ERROR] Line 3, Col 1: PI 5(2) cannot be inverted!!
+[ERROR] Line 3: Missing PI definition!!
+[ERROR] Line 3: Literal "2" is redefined, previously defined as PI in line 2!!
+[ERROR] Line 3, Col 1: Missing PI literal ID!!
+[ERROR] Line 3, Col 1: Cannot redefine constant (1)!!
+[ERROR] Line 3, Col 1: Literal "16" exceeds maximum valid ID!!
+[ERROR] Line 4, Col 1: Missing PO literal ID!!
+[ERROR] Line 5: Missing PO definition!!
+[ERROR] Line 5, Col 1: Extra space character is detected!!
+[ERROR] Line 5, Col 1: Literal "17" exceeds maximum valid ID!!
+[ERROR] Line 6, Col 2: Missing space character!!
+[ERROR] Line 6: Literal "4" is redefined, previously defined as PI in line 3!!
+[ERROR] Line 6, Col 1: Extra space character is detected!!
+[ERROR] Line 6, Col 6: Extra space character is detected!!
+[ERROR] Line 6, Col 8: A new line is expected here!!
+[ERROR] Line 6, Col 1: Cannot redefine constant (1)!!
+[ERROR] Line 6, Col 1: Literal "20" exceeds maximum valid ID!!
+[ERROR] Line 6, Col 3: Literal "21" exceeds maximum valid ID!!
+[ERROR] Line 6, Col 8: A new line is expected here!!
+[ERROR] Line 7: Literal "6" is redefined, previously defined as AIG in line 6!!
+[ERROR] Line 8: Missing AIG definition!!
+[ERROR] Line 9, Col 1: Extra space character is detected!!
+[ERROR] Line 9, Col 1: Illegal white space char(9) is detected!!
+[ERROR] Line 9, Col 2: Extra space character is detected!!
+[ERROR] Line 9, Col 2: Illegal white space char(9) is detected!!
+[ERROR] Line 9: Illegal symbol index(a)!!
+[ERROR] Line 9: Missing "symbolic name"!!
+[ERROR] Line 9: Missing "symbolic name"!!
+[ERROR] Line 9, Col 3: Missing space character!!
+[ERROR] Line 9, Col 5: Symbolic name contains un-printable char(27)!!
+[ERROR] Line 9, Col 1: Illegal symbol type ()!!
+[ERROR] Line 9, Col 1: Illegal symbol type (a)!!
+[ERROR] Line 10, Col 1: Illegal symbol type (a)!!
+[ERROR] Line 9: PI index is too big (3)!!
+[ERROR] Line 10: Symbolic name for "i0" is redefined!!
+[ERROR] Line 10, Col 1: Extra space character is detected!!
+[ERROR] Line 10, Col 1: Illegal white space char(9) is detected!!
+[ERROR] Line 2, Col 1: Cannot redefine constant (0)!!
+[ERROR] Line 1: Number of variables is too small (2)!!
+[ERROR] Line 1, Col 4: Missing number of variables!!
+[ERROR] Line 1: Illegal number of AIGs(a2)!!
+[ERROR] Line 1: Missing "aag"!!
+[ERROR] Line 13, Col 2: A new line is expected here!!
+[ERROR] Line 13, Col 2: A new line is expected here!!
+Cannot open design "err63.aag"!!

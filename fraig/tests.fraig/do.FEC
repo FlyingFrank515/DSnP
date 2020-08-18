@@ -1,0 +1,61 @@
+cirr sim01.aag -re
+cirsim -f pattern.01
+usage
+cirp -fec
+cirr sim02.aag -re
+cirsim -f pattern.02
+usage
+cirp -fec
+cirr sim03.aag -re
+cirsim -f pattern.03
+usage
+cirp -fec
+cirr sim04.aag -re
+cirsim -f pattern.04
+usage
+cirp -fec
+cirr sim05.aag -re
+cirsim -f pattern.05
+usage
+cirp -fec
+cirr sim06.aag -re
+cirsim -f pattern.06
+usage
+cirp -fec
+cirr sim07.aag -re
+cirsim -f pattern.06
+usage
+cirp -fec
+cirr sim08.aag -re
+cirsim -f pattern.08
+usage
+cirp -fec
+cirr sim09.aag -re
+cirsim -f pattern.09
+usage
+cirp -fec
+cirr sim10.aag -re
+cirsim -f pattern.10
+usage
+cirp -fec
+cirr sim11.aag -re
+cirsim -f pattern.11
+usage
+cirp -fec
+cirr sim12.aag -re
+cirsim -f pattern.12
+usage
+cirp -fec
+cirr sim13.aag -re
+cirsim -f pattern.13
+usage
+cirp -fec
+cirr sim14.aag -re
+cirsim -f pattern.14
+usage
+cirp -fec
+cirr sim15.aag -re
+cirsim -f pattern.15
+usage
+cirp -fec
+q -f

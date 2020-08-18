@@ -1,0 +1,16 @@
+taski 1000
+taskn -r 1000
+taska 1000 -r 30000
+taskq -hash
+taskq -heap
+taskr -n kcrnmp
+taskr -n owygfi
+taskr -n ygberj
+taskr -n fiieob
+taskr -n nmzhun
+taskr -n vkuuxf
+taskr -r 100
+taskq -heap
+taskq -hash
+usage
+q -f

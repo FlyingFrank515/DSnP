@@ -1,0 +1,131 @@
+mtest> mtn 10
+Calling alloc...(84)
+Calling MemMgr::getMem...(84)
+Memory acquired... 0x564bce0db7d0
+Calling alloc...(84)
+Calling MemMgr::getMem...(84)
+Memory acquired... 0x564bce0db828
+Calling alloc...(84)
+Calling MemMgr::getMem...(84)
+Memory acquired... 0x564bce0db880
+Calling alloc...(84)
+Calling MemMgr::getMem...(84)
+Memory acquired... 0x564bce0db8d8
+Calling alloc...(84)
+Calling MemMgr::getMem...(84)
+Memory acquired... 0x564bce0db930
+Calling alloc...(84)
+Calling MemMgr::getMem...(84)
+Memory acquired... 0x564bce0db988
+Calling alloc...(84)
+Calling MemMgr::getMem...(84)
+Memory acquired... 0x564bce0db9e0
+Calling alloc...(84)
+Calling MemMgr::getMem...(84)
+Memory acquired... 0x564bce0dba38
+Calling alloc...(84)
+Calling MemMgr::getMem...(84)
+Memory acquired... 0x564bce0dba90
+Calling alloc...(84)
+Calling MemMgr::getMem...(84)
+Memory acquired... 0x564bce0dbae8
+
+mtest> mtn 5 -a 256
+Calling allocArr...(21512)
+Calling MemMgr::getMem...(21512)
+Memory acquired... 0x564bce0dbb40
+Calling allocArr...(21512)
+Calling MemMgr::getMem...(21512)
+Memory acquired... 0x564bce0e0f48
+Calling allocArr...(21512)
+Calling MemMgr::getMem...(21512)
+Memory acquired... 0x564bce0e6350
+Calling allocArr...(21512)
+Calling MemMgr::getMem...(21512)
+Recycling 0x564bce0eb758 to _recycleList[1]
+New MemBlock... 0x564bce0f30e0
+Memory acquired... 0x564bce0f3290
+Calling allocArr...(21512)
+Calling MemMgr::getMem...(21512)
+Memory acquired... 0x564bce0f8698
+
+mtest> mtn 5 -a 512
+Calling allocArr...(43016)
+Calling MemMgr::getMem...(43016)
+Recycling 0x564bce0fdaa0 to _recycleList[267]
+New MemBlock... 0x564bce0f3110
+Memory acquired... 0x564bce103330
+Calling allocArr...(43016)
+Calling MemMgr::getMem...(43016)
+Recycling 0x564bce10db38 to _recycleList[268]
+New MemBlock... 0x564bce0f3160
+Memory acquired... 0x564bce113340
+Calling allocArr...(43016)
+Calling MemMgr::getMem...(43016)
+Recycling 0x564bce11db48 to _recycleList[268]
+New MemBlock... 0x564bce123350
+Memory acquired... 0x564bce123380
+Calling allocArr...(43016)
+Calling MemMgr::getMem...(43016)
+Recycling 0x564bce12db88 to _recycleList[268]
+New MemBlock... 0x564bce133390
+Memory acquired... 0x564bce1333c0
+Calling allocArr...(43016)
+Calling MemMgr::getMem...(43016)
+Recycling 0x564bce13dbc8 to _recycleList[268]
+New MemBlock... 0x564bce1433d0
+Memory acquired... 0x564bce143400
+
+mtest> mtd -i 7 -a
+Calling freeArr...(0x564bce123380)
+>> Array size = 512
+Recycling 0x564bce123380 to _recycleList[512]
+
+mtest> mtd -i 0 -a
+Calling freeArr...(0x564bce0dbb40)
+>> Array size = 256
+Recycling 0x564bce0dbb40 to _recycleList[256]
+
+mtest> mtp
+=========================================
+=              Memory Manager           =
+=========================================
+* Block size            : 65536 Bytes
+* Number of blocks      : 7
+* Free mem in last block: 22520
+* Recycle list          : 
+[256] = 1         [512] = 1         [  1] = 1         [267] = 1         
+[268] = 4         
+=========================================
+=             class MemTest             =
+=========================================
+Object list ---
+oooooooooo
+Array list ---
+xooooooxoo
+
+mtest> mtd -r 3
+Calling free...(0x564bce0dba90)
+Calling free...(0x564bce0db8d8)
+Calling free...(0x564bce0dba38)
+
+mtest> mtp
+=========================================
+=              Memory Manager           =
+=========================================
+* Block size            : 65536 Bytes
+* Number of blocks      : 7
+* Free mem in last block: 22520
+* Recycle list          : 
+[  0] = 3         [256] = 1         [512] = 1         [  1] = 1         
+[267] = 1         [268] = 4         
+=========================================
+=             class MemTest             =
+=========================================
+Object list ---
+oooxoooxxo
+Array list ---
+xooooooxoo
+
+mtest> q -f
+
