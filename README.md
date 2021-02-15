@@ -93,4 +93,17 @@ Supported commands are listed below.
 
 ## Final Project FRAIG ##
 implement Functionally Reduced And-Inverter Graph (FRAIG).
-cd 
+
+Supported commands are listed below.
+* CIRRead: read in a circuit and construct the netlist
+* CIRPrint: print circuit
+* CIRGate: report a gate
+* CIRWrite: write the netlist to an ASCII AIG file (.aag)
+* CIRSWeep: remove unused gates
+* CIROPTimize: perform trivial optimizations
+* CIRSTRash: perform structural hash on the circuit netlist
+* CIRSIMulate: perform Boolean logic simulation on the circuit
+* CIRFraig: perform FRAIG operation on the circuit
+
+However, the sequences of commands must follow the dependency graph.
+![](fraig/path.png)
